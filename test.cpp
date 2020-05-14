@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-  string one = test;
+  string one = "test";
     cout<<"this is a"<<one<<endl;
   
 
